@@ -20,10 +20,13 @@ Conhecimentos em:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-📫 Meus contatos
-lucasfreirevilhena@gmail.com
-https://www.instagram.com/lucasfvilhena_/
-https://www.linkedin.com/in/lucas-vilhena-9176a128b/
+📫 Meus contatos:
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+-lucasfreirevilhena@gmail.com
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+-https://www.instagram.com/lucasfvilhena_/
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+-https://www.linkedin.com/in/lucas-vilhena-9176a128b/
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
