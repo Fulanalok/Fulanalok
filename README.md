@@ -21,13 +21,17 @@ Conhecimentos em:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 📫 Meus contatos:
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 -lucasfreirevilhena@gmail.com
+
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
 -https://www.instagram.com/lucasfvilhena_/
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 -https://www.linkedin.com/in/lucas-vilhena-9176a128b/
 
 <div align="center">
