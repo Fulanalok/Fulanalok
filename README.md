@@ -54,7 +54,7 @@ Plataforma full stack para venda e validação de ingressos digitais, com autent
 **Tecnologias:** React, TypeScript, Tailwind CSS, Firebase Auth, Firestore, Firebase Functions, Vitest e Cypress.
 
 - Demo: https://ingressosz-40389793-4880f.web.app
-- 
+
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Vilhena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vilhena-9176a128b/)
